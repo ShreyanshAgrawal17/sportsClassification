@@ -33,7 +33,8 @@ Models are evaluated on a **separate test dataset**.
 
 ## 🗂 Dataset
 
-The dataset consists of images classified into **five sports categories**:  
+The dataset is sourced from **[Sports Classification Dataset](https://www.kaggle.com/datasets/gpiosenka/sports-classification)** on Kaggle.  
+We have selected **five sports categories** from this dataset:  
 - 🏏 **Cricket**  
 - ⚽ **Football**  
 - 🏊 **Swimming**  
